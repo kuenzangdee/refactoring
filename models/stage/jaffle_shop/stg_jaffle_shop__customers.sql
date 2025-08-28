@@ -9,7 +9,6 @@ source as (
 transformed as (
 
   select 
-
     id as customer_id,
     last_name as customer_last_name,
     first_name as customer_first_name,
